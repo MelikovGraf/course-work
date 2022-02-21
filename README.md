@@ -6,4 +6,4 @@
 *Обучаемость
 *Дисциплина
 
-![photo](img/photo)
+![photo.jpg](img/photo.jpg)
